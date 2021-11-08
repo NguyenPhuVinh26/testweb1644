@@ -7,7 +7,7 @@
 	include_once("connection.php");
 	function bind_Category_List($conn)
 	{
-		$sqlstring = "select Cat_ID, Cat_Name from Category";
+		$sqlstring = "select cat_ID, Cat_Name from Category";
 		$result = mysqli_query($conn,$sqlstring);
 		echo "<select name='CategoryList' class='form-control'>
 			<option value='0'>Choose category</option>";
