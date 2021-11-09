@@ -107,8 +107,8 @@
                                     <form action="#" method="post">
                                     <fieldset>
                                         <legend></legend>
-                                        <input type="text" placeholder="Enter search term&hellip;">
-                                        <button type="submit"><i class="fas fa-search"></i></button>
+                                        <input type="text" placeholder="Enter the product you want to search for.&hellip;">
+                                        <button type="submit"><i class=""></i></button>
                                     </fieldset>
                                     </form>
                                 </div>
