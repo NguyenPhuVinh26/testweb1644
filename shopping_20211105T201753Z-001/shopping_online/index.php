@@ -102,7 +102,17 @@
                                         }
                                         ?>
                                 </li> 
-								
+								<div id="searchform">
+                                <div>
+                                    <form action="#" method="post">
+                                    <fieldset>
+                                        <legend>Search:</legend>
+                                        <input type="text" placeholder="Enter search term&hellip;">
+                                        <button type="submit"><i class="fas fa-search"></i></button>
+                                    </fieldset>
+                                    </form>
+                                </div>
+                                </div>
 							</ul>
 						</div>
 					</div>
