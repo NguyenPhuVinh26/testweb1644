@@ -64,7 +64,7 @@
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
                             <a href="index.php" style="background-color:#;color:#FFF">ATN
-                            <img src="img/logodochoi.png" width="50" height="50"></a>
+                            <img src="img/logodochoi.png" width="50" height="40"></a>
 						</div>
 					</div>
 						<div class="mainmenu pull-left">
