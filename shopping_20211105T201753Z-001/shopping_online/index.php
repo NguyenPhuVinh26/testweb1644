@@ -219,7 +219,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; Shop selling children's toys </p>
+                        <p>&copy; Select a payment method. </p>
                     </div>
                 </div>
                 
