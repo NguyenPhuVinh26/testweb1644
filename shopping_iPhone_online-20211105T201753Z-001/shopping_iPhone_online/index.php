@@ -49,7 +49,7 @@
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> 0782903794</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> 0788789025</a></li>
 								<li><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><i class="fa fa-envelope"></i>vinhnpgcc19003@fpt.edu.vn</a></li>
 							</ul>
 						</div>
@@ -64,7 +64,7 @@
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
                             <a href="index.php" style="background-color:#;color:#FFF">ATN
-                            <img src="img/logoiPhone2.png" width="50" height="50"></a>
+                            <img src="img/logodochoi.png" width="50" height="50"></a>
 						</div>
 					</div>
 						<div class="mainmenu pull-left">
