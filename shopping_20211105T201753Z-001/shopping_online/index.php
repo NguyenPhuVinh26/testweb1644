@@ -108,7 +108,6 @@
                                     <fieldset>
                                         <legend></legend>
                                         <input type="text" placeholder="Enter the product you want to search for.&hellip;">
-                                        <button type="submit"><i class=""></i></button>
                                     </fieldset>
                                     </form>
                                 </div>
