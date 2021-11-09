@@ -207,7 +207,7 @@
                              Therefore, parents always want their children to develop to the fullest extent both physically and intellectually. Toys for children are one of the objects that can help parents fulfill this desire.</p>
                         <div class="footer-social">
                             <a href="https://www.facebook.com/profile.php?id=100012763472006" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="https://https://www.youtube.com/watch?v=65JrtwtTOdc&t=2s" target="_blank"><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.youtube.com/watch?v=FuFWzLFgIRE" target="_blank"><i class="fa fa-youtube"></i></a>
                         </div>
                     </div>
                 </div>
