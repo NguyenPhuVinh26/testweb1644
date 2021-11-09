@@ -47,7 +47,7 @@ include_once("connection.php");
                                 <div class="product-f-imagemu">
                                    <img src="img/<?php echo $row['pro_image']?>" width="550" height="450">
                                     <div class="product-hover">
-                                        <a href="?page=1sanpham&&id=<?php echo  $row['product_id']?>" class="view-details-link"><i class="fa fa-link"></i> See details</a>
+                                        <a href="?page=1sanpham&&id=<?php echo  $row['product_id']?>" class="view-details-link"><i class="fa fa-link"></i> Add to cart</a>
                                     </div>
                                 </div>
                                 
