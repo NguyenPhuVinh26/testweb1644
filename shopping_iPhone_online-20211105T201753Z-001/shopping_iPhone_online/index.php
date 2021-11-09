@@ -202,8 +202,9 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
-                        <h2><span>Shopping iPhone Online</span></h2>
-                        <p>A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.</p>
+                        <h2><span>Shop selling children's toys</span></h2>
+                        <p>Children's toys are one of the best things that parents want to bring to their baby when the little angel comes to the family. The birth of a child is the happiness of the parents. A mother's love is all for her children.
+                             Therefore, parents always want their children to develop to the fullest extent both physically and intellectually. Toys for children are one of the objects that can help parents fulfill this desire.</p>
                         <div class="footer-social">
                             <a href="https://www.facebook.com/profile.php?id=100012763472006" target="_blank"><i class="fa fa-facebook"></i></a>
                             <a href="https://https://www.youtube.com/watch?v=65JrtwtTOdc&t=2s" target="_blank"><i class="fa fa-youtube"></i></a>
@@ -218,7 +219,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; Shopping iPhone Online </p>
+                        <p>&copy; Shop selling children's toys </p>
                     </div>
                 </div>
                 
