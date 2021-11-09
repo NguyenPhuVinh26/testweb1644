@@ -7,15 +7,15 @@ include_once("connection.php");
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="img/packground1.1.jpg" alt="Slide">
+						<img src="img/packground1.1.jpg" width="50" height="40" alt="Slide">
 						<div class="caption-group">
 
 					</li>
-					<li><img src="img/iPhone12.1top.jpg" alt="Slide">
+					<li><img src="img/iPhone12.1top.jpg" width="50" height="40" alt="Slide">
 						<div class="caption-group">
 
 					</li>
-					<li><img src="img/iPhone.3top.jpg" alt="Slide">
+					<li><img src="img/iPhone.3top.jpg" width="50" height="40" alt="Slide">
 						<div class="caption-group">
 
         
