@@ -63,7 +63,7 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:#;color:#FFF">iPhone
+                            <a href="index.php" style="background-color:#;color:#FFF">ATN
                             <img src="img/logoiPhone2.png" width="50" height="50"></a>
 						</div>
 					</div>
