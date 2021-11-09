@@ -106,7 +106,7 @@
                                 <div>
                                     <form action="#" method="post">
                                     <fieldset>
-                                        <legend>Search:</legend>
+                                        <legend></legend>
                                         <input type="text" placeholder="Enter search term&hellip;">
                                         <button type="submit"><i class="fas fa-search"></i></button>
                                     </fieldset>
