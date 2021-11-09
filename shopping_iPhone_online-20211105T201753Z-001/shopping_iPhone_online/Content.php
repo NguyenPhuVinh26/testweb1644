@@ -7,7 +7,7 @@ include_once("connection.php");
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="img/packgroud1.jpg" alt="Slide">
+						<img src="img/packground1.jpg" alt="Slide">
 						<div class="caption-group">
 
 					</li>
