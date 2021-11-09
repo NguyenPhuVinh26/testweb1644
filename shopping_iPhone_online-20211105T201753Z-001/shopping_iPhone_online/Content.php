@@ -11,11 +11,11 @@ include_once("connection.php");
 						<div class="caption-group">
 
 					</li>
-					<li><img src="img/iPhone12.1top.jpg" width="50" height="40" alt="Slide">
+					<li><img src="img/packround1.3.jpg" width="50" height="40" alt="Slide">
 						<div class="caption-group">
 
 					</li>
-					<li><img src="img/iPhone.3top.jpg" width="50" height="40" alt="Slide">
+					<li><img src="img/packground1.4.jpg" width="50" height="40" alt="Slide">
 						<div class="caption-group">
 
         
