@@ -43,7 +43,7 @@
   ?>
 
 		
-		<div class="header-middle" style="background-color:	#777777">
+		<div class="header-middle" style="background-color:	#66FF99">
 			<div class="container" >
 				<div>
 					<div class="col-sm-6" >
