@@ -34,6 +34,23 @@
                     href="?page=quanly_chitietsanpham&ma=<?php echo  $row['product_id']?>"><?php echo  $row['product_name']?></a>
             </h4>
             <div class="price"><ins>$ <?php echo  $row['price']?></ins> <del class="oldprice">
+            
+            <div class="single-product">
+                                <div class="product-f-imagemu">
+                                   <img src="img/<?php echo $row['pro_image']?>" width="550" height="450">
+                                    <div class="product-hover">
+                                        <a href="?page=1sanpham&&id=<?php echo  $row['product_id']?>" class="view-details-link"><i class="fa fa-link"></i> Add to cart</a>
+                                    </div>
+                                </div>
+                                
+                                <h2><a href="?page=quanly_chitietsanpham&ma=<?php echo  $row['product_id']?>"><?php echo  $row['product_name' ]?></a>
+                                </h2>
+                                    
+                                <div class="product-carousel-price">
+                                    <ins><?php echo  $row['price']?>,0$</ins> 
+                                </div> 
+                            </div>
+
                     $<?php echo  $row['oldprice']?></del></div>
         </div>
     </div>
