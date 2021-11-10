@@ -35,10 +35,7 @@
             </h4>
             <div class="price"><ins>$ <?php echo  $row['price']?></ins> <del class="oldprice">
             
-            <div class="single-product">
-                                <div class="product-f-imagemu">
-                                   <img src="img/<?php echo $row['pro_image']?>" width="550" height="450">
-                                    <div class="product-hover">
+            
                                         <a href="?page=1sanpham&&id=<?php echo  $row['product_id']?>" class="view-details-link"><i class="fa fa-link"></i> Add to cart</a>
                                     </div>
                                 </div>
