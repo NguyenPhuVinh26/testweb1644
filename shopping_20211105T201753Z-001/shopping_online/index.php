@@ -102,16 +102,12 @@
                                         }
                                         ?>
                                 </li> 
-								<div id="searchform">
-                                <div>
-                                    <form action="#" method="post">
-                                    <fieldset>
-                                        <legend></legend>
-                                        <input type="text" placeholder="Enter the product you want to search for.&hellip;">
-                                    </fieldset>
-                                    </form>
-                                </div>
-                                </div>
+								<form class="navbar-form navbar-left" action="index.php?page=search" method="post">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search" name="txtSearch">
+                        </div>
+                        <button type="submit" class="btn btn-default">Search</button>
+                        </form>
 							</ul>
 						</div>
 					</div>
