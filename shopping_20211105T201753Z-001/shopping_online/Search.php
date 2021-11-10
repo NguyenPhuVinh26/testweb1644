@@ -42,13 +42,6 @@
                                         <a href="?page=1sanpham&&id=<?php echo  $row['product_id']?>" class="view-details-link"><i class="fa fa-link"></i> Add to cart</a>
                                     </div>
                                 </div>
-                                    
-                                <div class="product-carousel-price">
-                                    <ins><?php echo  $row['price']?>,0$</ins> 
-                                </div> 
-                            </div>
-
-                    $<?php echo  $row['oldprice']?></del></div>
         </div>
     </div>
     <?php
