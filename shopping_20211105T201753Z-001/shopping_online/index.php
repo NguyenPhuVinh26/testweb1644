@@ -241,11 +241,7 @@
           Children's toys are one of the best things that parents want to bring to their baby when the little angel comes to the family.
           </p>
         </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">
             Products
           </h6>
@@ -262,11 +258,7 @@
             <a href="#!" class="text-reset">Bear Lego</a>
           </p>
         </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">
             Useful links
           </h6>
@@ -277,37 +269,25 @@
             <a href="https://www.youtube.com/watch?v=FuFWzLFgIRE&t=1s" class="text-reset">youtube</a>
           </p>
         </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-          <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">
             Contact
           </h6>
           <p> Address: Ho Chi Minh City </p>
-          <p>
-            
+          <p>           
             Email: vinhnpgcc19003@fpt.edu.vn
           </p>
           <p>Phone: + 0788789025</p>
           <p>Phone: + 0976783842</p>
         </div>
-        <!-- Grid column -->
       </div>
-      <!-- Grid row -->
     </div>
   </section>
-  <!-- Section: Links  -->
-
-  <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2021 Copyright:
     <a class="text-reset fw-bold" href="https://mdbootstrap.com/">NguyenPhuVinh.com</a>
   </div>
-  <!-- Copyright -->
 </footer>
-<!-- Footer --> 
 </body>
 
 </html>
