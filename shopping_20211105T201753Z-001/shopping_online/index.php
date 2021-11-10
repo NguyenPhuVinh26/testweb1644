@@ -250,11 +250,10 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Company name
+            <i class="fas fa-gem me-3"></i>ATN Company
           </h6>
           <p>
-            Here you can use rows and columns to organize your footer content. Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit.
+          Children's toys are one of the best things that parents want to bring to their baby when the little angel comes to the family. The birth of a child is the happiness of the parents. A mother's love is all for her children. Therefore, parents always want their children to develop to the fullest extent both physically and intellectually. Toys for children are one of the objects that can help parents fulfill this desire. With a wide variety of children's toys currently on the market, parents can easily choose to buy toys for their children that match their interests, ages, and educational purposes that the family wants their children to learn while playing. these toys.
           </p>
         </div>
         <!-- Grid column -->
