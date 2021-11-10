@@ -300,13 +300,13 @@
           <h6 class="text-uppercase fw-bold mb-4">
             Contact
           </h6>
-          <p><i class="fas fa-home me-3"></i> Ho Chi Minh City </p>
+          <p> Address: Ho Chi Minh City </p>
           <p>
-            <i class="fas fa-envelope me-3"></i>
-            vinhnpgcc19003@fpt.edu.vn
+            
+            Email: vinhnpgcc19003@fpt.edu.vn
           </p>
-          <p><i class="Phone: "></i> + 0788789025</p>
-          <p><i class="fas fa-print me-3"></i> + 0976783842</p>
+          <p>Phone: + 0788789025</p>
+          <p>Phone: + 0976783842</p>
         </div>
         <!-- Grid column -->
       </div>
