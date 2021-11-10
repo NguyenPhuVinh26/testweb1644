@@ -305,7 +305,7 @@
             <i class="fas fa-envelope me-3"></i>
             vinhnpgcc19003@fpt.edu.vn
           </p>
-          <p><i class="fas fa-phone me-3"></i> + 0788789025</p>
+          <p><i class="Phone: "></i> + 0788789025</p>
           <p><i class="fas fa-print me-3"></i> + 0976783842</p>
         </div>
         <!-- Grid column -->
