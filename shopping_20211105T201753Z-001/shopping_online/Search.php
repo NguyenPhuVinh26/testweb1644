@@ -29,7 +29,7 @@
     <!--Display product-->
     <div class="col-sm-3">
         <div class="card">
-            <img src="product-imgs/<?php echo $row['pro_image']?>" style="width:100%">
+            <img src="img/<?php echo $row['pro_image']?>" style="width:100%">
             <h4 class="name"><a
                     href="?page=quanly_chitietsanpham&ma=<?php echo  $row['product_id']?>"><?php echo  $row['product_name']?></a>
             </h4>
