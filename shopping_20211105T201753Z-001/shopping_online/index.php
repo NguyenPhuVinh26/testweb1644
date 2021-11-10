@@ -42,21 +42,6 @@
     include_once("connection.php"); 
   ?>
 
-   <header id="header">
-		<div class="header_top">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-6">
-						<div class="contactinfo">
-							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> 0788789025</a></li>
-								<li><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><i class="fa fa-envelope"></i>vinhnpgcc19003@fpt.edu.vn</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 		
 		<div class="header-middle" style="background-color:	#777777">
 			<div class="container" >
