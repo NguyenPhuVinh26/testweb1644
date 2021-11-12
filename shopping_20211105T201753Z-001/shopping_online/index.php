@@ -62,6 +62,7 @@
                                     <ul role="menu" class="sub-menu">
                                         <li><a href="?page=Category_Management">Category</a></li>
 										<li><a href="?page=product_management">Product</a></li>
+                    <li><a href="?page=branch_management">Branch</a></li>
                                     </ul>
                                     <?php
                                         }
@@ -113,6 +114,18 @@
         elseif($page=="login")
         {
             include_once("Login.php");
+        }
+        elseif($page=="branch_management")
+        {
+            include_once("Branch_Management.php");
+        }
+        elseif($page=="add_branch")
+        {
+            include_once("Add_Branch.php");
+        }
+        elseif($page=="update_branch")
+        {
+            include_once("Update_Product.php");
         }
         elseif($page=="search")
         {
