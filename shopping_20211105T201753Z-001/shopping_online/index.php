@@ -125,7 +125,7 @@
         }
         elseif($page=="update_branch")
         {
-            include_once("Update_Product.php");
+            include_once("Update_Branch.php");
         }
         elseif($page=="search")
         {
